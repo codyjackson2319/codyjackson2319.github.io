@@ -19,10 +19,10 @@
         <a class="nav-link" href="favorite foods.html">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="breakfast.html">hitting</a>
+        <a class="nav-link" href="breakfast.html">Htting</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="dinner.html">fielding</a>
+        <a class="nav-link" href="dinner.html">Felding</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -37,7 +37,7 @@
     </ul>
   </div>
 </nav>
-			<h1> hitting <h1>
+			<h1> Htting <h1>
 			
 			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
