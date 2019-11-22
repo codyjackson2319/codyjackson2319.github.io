@@ -22,16 +22,16 @@
         <a class="nav-link" href="breakfast.html">Htting</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="dinner.html">Felding</a>
+        <a class="nav-link" href="dinner.html">Feilding</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Dropdown link
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">homes</a>
-          <a class="dropdown-item" href="#">lunch</a>
-          <a class="dropdown-item" href="#">breakfast</a>
+          <a class="dropdown-item" href="#">Home</a>
+          <a class="dropdown-item" href="#">Hitting</a>
+          <a class="dropdown-item" href="#">Feilding</a>
         </div>
       </li>
     </ul>
@@ -42,13 +42,13 @@
 			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://d3awvtnmmsvyot.cloudfront.net/api/file/6fTZjAw9Tjqf4XrddmRQ" class="d-block w-100" alt="...">
+      <img src="https://static01.nyt.com/images/2017/07/14/sports/14JUDGEweb/14JUDGEweb-articleLarge.jpg?quality=75&auto=webp&disable=upscale" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://prods3.imgix.net/images/articles/2015_10/WEB-Article-Homemade-Southern-Biscuits-and-Sausage-Gravy-Egg-Williamsburg-Brooklyn-NYC-Recipe.jpg" class="d-block w-100" alt="...">
+      <img src="https://i.ytimg.com/vi/yduu6JfR27c/hqdefault.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://www.seriouseats.com/recipes/images/2014/04/20140430-peeling-eggs-10-1500x1125.jpg" class="d-block w-100" alt="...">
+      <img src="http://wordpress.wbur.org/wp-content/uploads/2013/07/0710_red-sox.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
